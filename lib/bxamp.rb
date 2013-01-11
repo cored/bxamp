@@ -1,5 +1,5 @@
 require "bxamp/version"
+require "bxamp/client"
 
 module Bxamp
-  # Your code goes here...
 end
